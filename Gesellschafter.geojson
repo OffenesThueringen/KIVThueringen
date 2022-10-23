@@ -1,0 +1,1455 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Finanzminsterium Erfurt",
+        "anteile": "9,08",
+        "marker-color": "#aabbFF"
+      },
+      "geometry": {
+        "coordinates": [
+          11.0570532,
+          50.9670644
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ekom21 - Kommunales Gebietsrechenzentrum Hessen K.d.ö.R",
+        "anteile": "45,17",
+        "marker-color": "#AA0000"
+      },
+      "geometry": {
+        "coordinates": [
+          8.6587713,
+          50.5990534
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Schleusingen",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.7498756,
+          50.5095001
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Steinbach-Hallenberg",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.5660824,
+          50.7016927
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Schalkau",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          11.0029476,
+          50.3934863
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gemeinde Grabfeld",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.4334927,
+          50.4553988
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Schmölln",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          12.3512511,
+          50.8952034
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Steinach",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          11.1548588,
+          50.4316029
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Lauscha",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          11.1571107,
+          50.4755485
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Vacha",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.0203451,
+          50.828067
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Stadtroda",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          11.7244987,
+          50.8584399
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Tanna",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          11.8542247,
+          50.4938628
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Bad Langensalza",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.6449295,
+          51.1058387
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Barchfeld-Immelborn",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.2912453,
+          50.8000127
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Saalburg-Ebersdorf",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          11.6613344,
+          50.4835004
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Brotterode-Trusetal",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.4039138,
+          50.7857175
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Verwaltungsgemeinschaft Rositz",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          12.3769058,
+          51.0115404
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Verwaltungsgemeinschaft Lindenberg/Eichsfeld",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.2623997,
+          51.4700487
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gemeinde Nobitz",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          12.4797086,
+          50.9754883
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gemeinde Nessetal",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.6559042,
+          50.9933272
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gemeinde Am Ettersberg",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          11.2399528,
+          51.0614114
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Schleiz",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          11.8073038,
+          50.5784703
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Artern",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          11.2900187,
+          51.3650987
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Ohrdruf",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.7302966,
+          50.8281373
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gemeinde Ilmtal-Weinstraße",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          11.4421489,
+          51.0631978
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gemeinde Helbedündorf",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.588316,
+          51.3405419
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gemeinde Auengrund",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.8837413,
+          50.4532794
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gemeinde Floh-Seligenthal",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.4785489,
+          50.7555232
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gemeinde Harztor",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.7842062,
+          51.5825323
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gemeinde Uhlstädt-Kirchhasel",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          11.4676643,
+          50.7420694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gemeinde Bad Frankenhausen",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          11.0345624,
+          51.3556569
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Blankenhain",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          11.3385235,
+          50.8615064
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Großbreitenbach",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          11.0116551,
+          50.5846525
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Roßleben-Wiehe",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          11.4257062,
+          51.2948372
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Sömmerda",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          11.1152557,
+          51.1620839
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Suhl",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.6910302,
+          50.6104147
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Wurzbach",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          11.5365509,
+          50.4639549
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Verwaltungsgemeinschaft Hanstein-Rusteberg",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          9.9311873,
+          51.3604518
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Verwaltungsgemeinschaft Hohe Rhön",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.1591998,
+          50.6267326
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadtverwaltung Bleicherode",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.5675716,
+          51.438902
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadtverwaltung Bleicherode",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.5675716,
+          51.438902
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Landkreis Ilm-Kreis",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.9108585,
+          50.6801035
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Verwaltungsgemeinschaft Fahner Höhe",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.7270932,
+          51.091779
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Verwaltungsgemeinschaft Heldburger Unterland",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.7238288,
+          50.281035
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Verwaltungsgemeinschaft Heldburger Unterland",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.7238288,
+          50.281035
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Eisenach",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.3159168,
+          50.975742
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Gotha",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.6995212,
+          50.9490226
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Leinefelde-Worbis",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.3233164,
+          51.388661
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gemeinde Unterwellenborn",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          11.430314,
+          50.6575046
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Berga/Elster",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          12.1616465,
+          50.752676
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Verwaltungsgemeinschaft Hainich-Werratal",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.2459843,
+          51.052869
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Verwaltungsgemeinschaft Ershausen/Geismar",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.1575061,
+          51.2567711
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Verwaltungsgemeinschaft Ershausen/Geismar",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.1575061,
+          51.2567711
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gemeinde Schleusegrund",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.8748826,
+          50.5218578
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gemeinde Schleusegrund",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.8748826,
+          50.5218578
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Verwaltungsgemeinschaft Wasungen - Amt Sand",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.3661793,
+          50.6637076
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gemeinde Veilsdorf",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.8076277,
+          50.407954
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gemeinde Breitungen/Werra",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.3255782,
+          50.7573459
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Apolda",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          11.5112359,
+          51.0227249
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zweckverband Thüringer Wintersportzentrum",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.720898,
+          50.7044577
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gemeinde Geratal",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.736475,
+          50.7220317
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Pößneck",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          11.5938713,
+          50.6955634
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Ronneburg",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          12.1790577,
+          50.8631144
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Verwaltungsgemeinschaft Triptis",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          11.864161789822482,
+          50.73527510415972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Erfurt",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          11.029950107096047,
+          50.97847276047923
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Verwaltungsgemeinschaft Feldstein",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.613460179912131,
+          50.50363396401771
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Verwaltungsgemeinschaft Dolmar-Salzbrücke",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.533999833433379,
+          50.619247110890704
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kyffhäuserkreis",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.87211005699071,
+          51.37187882344315
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saale-Holzland-Kreis",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          11.894495262949658,
+          50.972190511547915
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Landkreis Hilburghausen",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.726159542907483,
+          50.42241738655646
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Verwaltungsgemeinschaft Bad Tennstedt",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.836255278532231,
+          51.154160337655334
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Verwaltungsgemeinschaft Bad Tennstedt",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.836255278532231,
+          51.154160337655334
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gemeinde Menteroda",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.570971808896799,
+          51.315337302226304
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Kahla",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          11.58851050918685,
+          50.80285671984603
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gemeinde Herbsleben",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.837944995639084,
+          51.11968686452637
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Landkreis Schmalkalden-Meiningen",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.416550369199728,
+          50.593110357754966
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Verwaltungsgemeinschaft Westerwald-Obereichsfeld",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.279835928356782,
+          51.277600492991844
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Bad Blankenburg",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          11.263886864321869,
+          50.68409339459511
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Hildburghausen",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.731108659169134,
+          50.424396193464304
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Verwaltungsgemeinschaft Mellingen",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          11.393253300637184,
+          50.94131040056618
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Ruhla",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.366825914135694,
+          50.89186206105352
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gemeinde Kaulsdorf",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          11.43161639376079,
+          50.61917097617766
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gemeinde Kaulsdorf",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          11.43161639376079,
+          50.61917097617766
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gemeinde- und Städtebund Thüringen e. V.",
+        "anteile": "0,004",
+        "marker-color": "#AA0000"
+      },
+      "geometry": {
+        "coordinates": [
+          11.014114434045648,
+          50.96579782402111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Zella-Mehlis",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.664033153677593,
+          50.65646310022501
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Waltershausen",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.556531189615542,
+          50.89784729527955
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Bad Köstritz",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          12.011641523574609,
+          50.93040588596275
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Stadtilm",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          11.078678794038487,
+          50.77420802554229
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gemeinde Unstruttal",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.448676095323425,
+          51.235641526804926
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Verwaltungsgemeinschaft Leinetal",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.208316627352547,
+          51.39556951446622
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Oberhof",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.72583285972603,
+          50.70499672888892
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Mühlhausen",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.456472454356968,
+          51.20812394744765
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Bad Lobenstein",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          11.640231045032484,
+          50.44757504067616
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Bad Berka",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          11.283686073139366,
+          50.89991852812082
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gemeinde Nesse-Apfelstädt",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.913223385672957,
+          50.913800535622
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gemeinde Wutha-Farnroda",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.391516853612277,
+          50.95801631073951
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Gera",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          12.084551211783179,
+          50.87596391051584
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gemeinde Kraftsdorf",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          11.914673746825418,
+          50.87560961822773
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Verwaltungsgemeinschaft Straußfurt",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.989715056644519,
+          51.162093657114255
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadt Römhild",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.54047913229489,
+          50.39747006962983
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gemeinde Föritztal",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          11.240537997342567,
+          50.31287748291734
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gemeinde Unstrut-Hainich",
+        "anteile": "0,004"
+      },
+      "geometry": {
+        "coordinates": [
+          10.64103019616562,
+          51.1153263168756
+        ],
+        "type": "Point"
+      }
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  ]
+}
